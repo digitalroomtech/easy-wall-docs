@@ -60,8 +60,10 @@ y debe actualizarse a :
 </head>
 <body>
   <header>
-      <div id="type-note" data-id="$product"></div>
+      <div id="content-profile"></div>
   </header>
+  <div id="type-note" data-id="$product"></div>
+
   <div id="content-note" style="visibility: hidden">
       <div class="row">
           <!-- contenido-->
