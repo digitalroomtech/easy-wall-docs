@@ -9,9 +9,9 @@
     data-type-note-id="type-note"
     data-header-id="content-profile"
     data-number-of-attempts="10"
-    data-url-client="https://suscriptores.vang.mx/auth"
-    data-url-allowed="https://suscriptores.vang.mx"
-    data-url-server="https://orca-app-fmgei.ondigitalocean.app/graphql"
+    data-url-client="[url-client]"
+    data-url-allowed="[url-allowed]"
+    data-url-server="[url-server]"
 ></script>
 ```
 
@@ -74,9 +74,9 @@ y debe actualizarse a :
           data-type-note-id="type-note"
           data-header-id="content-profile"
           data-number-of-attempts="10"
-          data-url-client="https://suscriptores.vang.mx/auth"
-          data-url-allowed="https://suscriptores.vang.mx"
-          data-url-server="https://orca-app-fmgei.ondigitalocean.app/graphql"
+          data-url-client="https://client-url.com"
+          data-url-allowed="https://url-1.com,https://url-2.com"
+          data-url-server="https://server-url.com"
   ></script>
 </body>
 
