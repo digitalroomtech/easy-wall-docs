@@ -67,7 +67,19 @@ y debe actualizarse a :
           <!-- contenido-->
       </div>
   </div>
+  <script
+          async
+          src="https://code.digitalroom.tech/easy-wall.js"
+          data-content-note-id="content-note"
+          data-type-note-id="type-note"
+          data-header-id="content-profile"
+          data-number-of-attempts="10"
+          data-url-client="https://suscriptores.vang.mx/auth"
+          data-url-allowed="https://suscriptores.vang.mx"
+          data-url-server="https://orca-app-fmgei.ondigitalocean.app/graphql"
+  ></script>
 </body>
+
 </html>
 
 ```
