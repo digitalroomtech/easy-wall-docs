@@ -1,20 +1,6 @@
 # easy-wall-docs
 
 
-```js
-<script
-    async
-    src="https://code.digitalroom.tech/easy-wall.js"
-    data-content-note-id="content-note"
-    data-type-note-id="type-note"
-    data-header-id="content-profile"
-    data-number-of-attempts="10"
-    data-url-client="[url-client]"
-    data-url-allowed="[url-allowed]"
-    data-url-server="[url-server]"
-></script>
-```
-
 ## Implementación
 
 **Contenido de la nota:** agregar en el tag que englobe el contenido que se desea bloquear el atributo `style="visibility:hidden"` para ocultarlo y agregarle un identificador para que pueda ser procesado por el easy wall script.
