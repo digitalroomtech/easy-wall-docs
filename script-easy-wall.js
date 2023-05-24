@@ -1,10 +1,10 @@
-const contentNoteId = 'content_note'; // <div id='content_note'>...</div> etiqueta para el contenido
-const headerId = 'content-profile';
-const typeNoteId = 'type-note';
+const contentNoteId = 'content_note'; // <div id='content_note'>...</div> tag content
+const headerId = 'content-profile'; // <div id='content-profile'>...</div> tag content profile
+const typeNoteId = 'type-note';// <div id='type-note' data-id='$product'>...</div> tag content profile
 const numberOfAttempts = 10;
-const urlClient = 'https://suscriptores.vang.mx/external-auth';
-const urlServer = 'https://orca-app-fmgei.ondigitalocean.app/graphql';
-const urlAllowed = 'https://suscriptores.vang.mx';
+const urlClient = ''; // [external form]
+const urlServer = '';// [url server]
+const urlAllowed = ''; //[ allowed url 1, allowed url 2];
 
 const setCookie = (name, value, expiredDays) => {
     const d = new Date();
