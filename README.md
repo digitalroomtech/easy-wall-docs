@@ -62,24 +62,16 @@ y debe actualizarse a :
   <header>
       <div id="content-profile"></div>
   </header>
-  <div id="type-note" data-id="$product"></div>
+  <div id="type-note" data-id="exclusivos"></div>
 
   <div id="content-note" style="visibility: hidden">
       <div class="row">
           <!-- contenido-->
       </div>
   </div>
-  <script
-          async
-          src="https://code.digitalroom.tech/easy-wall.js"
-          data-content-note-id="content-note"
-          data-type-note-id="type-note"
-          data-header-id="content-profile"
-          data-number-of-attempts="10"
-          data-url-client="https://client-url.com"
-          data-url-allowed="https://url-1.com,https://url-2.com"
-          data-url-server="https://server-url.com"
-  ></script>
+  <script async>
+      // Colocar la informacion del script easy wall aca
+  </script>
 </body>
 
 </html>
